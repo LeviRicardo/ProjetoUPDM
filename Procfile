@@ -1,1 +1,1 @@
-worker: python3 ust.py
+worker: python3 twitter.py
